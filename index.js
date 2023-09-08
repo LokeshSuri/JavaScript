@@ -1,3 +1,4 @@
+
 let profile = {
     name: "Lokesh",
     age: 25,
@@ -5,3 +6,4 @@ let profile = {
 };
 
 console.log(JSON.stringify(profile));
+
